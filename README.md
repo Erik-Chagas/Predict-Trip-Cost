@@ -1,4 +1,4 @@
-# Predict-Trip-Cost
+# Predict Trip Cost
 Data science project to predict taxi trip costs using regression models, feature selection and feature engineering.
 
 This repository contains a regression data science project. The objective is to analyze a trip database to build a model capable of predicting the cost of a trip.
